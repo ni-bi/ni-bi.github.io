@@ -671,3 +671,7 @@ body {
 	color: #fff;
 	background-size: cover;
 }
+
+.no-border {
+	border:none;
+}
